@@ -14,12 +14,11 @@ Atividades Principais: Responsável pela migração de processos manuais de cré
 Resultados: Prêmio Conquistar T&O Risk Pro, tornando-se referência ao eliminar mais de 100 processos manuais de crédito do banco, implementando a automatização, reduzindo significativamente a necessidade de trabalho manual em esteiras SAS. Além disso, desenvolveu-se um processo automático para gerar comunicação com os clientes através do PySpark.
 
 Habilidades
-Linguagens de Programação: 
+ 🧑🏻‍💻 Linguagens de Programação: 
 
-Python
-
-SQL
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 SAS
 
 Outras habilidades: 
@@ -34,8 +33,6 @@ LinkedIn:  https://www.linkedin.com/in/rodolfo-paulino-421330168/
 
 Objetivo
 Estou constantemente em busca de desafios empolgantes que me permitam aprimorar minhas habilidades e contribuir com projetos significativos. Se você está interessado em trabalhar juntos em um projeto emocionante ou apenas deseja bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
-
-
 
 <!--
 **rlmp26/rlmp26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
