@@ -7,7 +7,14 @@ Olá! 👋 Sou um analista de dados entusiasmado com a criação de soluções i
 
 Experiência
 
-Santander Brasil | Analista de Dados|  Julho/2022 - Atualmente
+Itau Unibanco | Analista de Dados|  Outubro/2024 - Atualmente
+
+Atividades Principais: Responsável pela migração de processos manuais de campanhas de recuperação de cartão de crédito (SAS) e homologação e criação de códigos de motores que calculam políticas de recuperação de crédito, execução de rotinas BAU, responsável pelo monitoramento de motores da recuperação de crédito, acompanhamento de acionamentos/efetividade das políticas implantadas, além de tratar e analisar dados para dashboards via Amazon Quick Sight.
+
+Resultados: Prêmio Conquistar WAlter Moreira Salles, tornando-se referência ao eliminar ter garantido a recuperação de mais de 2 bilhões em menos de 1 ano de atuação, além de implementar a política a automatização realizando acompanhamento da efetividade e acioanmentos.
+
+
+Santander Brasil | Analista de Dados|  Julho/2022 - Outubro/2024
 
 Atividades Principais: Responsável pela migração de processos manuais de crédito (SAS) e validação de códigos PySpark/Python dos modelos e motores que calculam políticas de crédito, execução de rotinas BAU, responsável pelo envio de comunicações de aumento, redução e bloqueio de cartões, disponibilização de bases para CRM de plano de ativos (cheque, parcelados e preventivos). responsável pelas cargas de cartões, cheque, preventivos e consignados, monitoramento de motores de rating e cartões, além de tratar e analisar dados para dashboards via Qlik.
 
@@ -19,7 +26,9 @@ Habilidades
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-SAS
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
+
+
 
 Outras habilidades: 
 Inglês fluente - Certificado B2 Cambridge
